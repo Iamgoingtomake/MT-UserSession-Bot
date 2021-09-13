@@ -17,14 +17,15 @@ from pyrogram.errors import (
 API_TEXT = """🙋‍♂ **Hi {},**
 **I am a String Session generator bot.**
 **For generating string session send me your** `API_ID` 🐿
-
-**👇Tutorial Video👇**
+ഞാൻ ഒരു മലയാളി കൂടി ആണ് 
+made by the great @Hyetelgram
+**
 
 👉 **[ʜᴏᴡ ᴛᴏ ɢᴇᴛ ᴀᴘɪ ɪᴅ & ᴀᴘɪ ʜᴀsʜ](https://youtu.be/5eEsvLAKVc0)
 
 👉 [ʜᴏᴡ ᴛᴏ ɢᴇᴛ ᴜsᴇʀsᴇssɪᴏɴ ꜰᴏʀ ᴡᴇʙsɪᴛᴇ](https://youtu.be/WUN_12-dYOM)**
 
-**👤Any Doubt @Mo_Tech_Group**
+**👤Any Doubts @HyetelegramBots **
 
 **🤔Any Help**  /help
 
@@ -232,14 +233,12 @@ async def about_cb(c, m, cb=True):
     me = await c.get_me()
     about_text = f"""**📃MY DETAILS:**
 \n🤖 **My Name:** {me.mention(style='md')}  
-\n📝 **Language:** [Python3](https://www.python.org/)
-\n👨‍💻 **Developer:** [Mo Tech](https://t.me/Mo_Tech_YT)
-\n📢 **Channel:** [MT BoT Updates](https://t.me/Mo_Tech_YT)
-\n👥 **Group:** [Any Doubt](https://t.me/Mo_Tech_Group)
-\n🌐 **Source Code:** [Press Me 😋](https://github.com/MRK-YT/MT-UserSession-Bot)
-\n🚀 **YouTube Channel:** [MT Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
-\n🖥️ 1:- [How Get UserSession For Website](https://youtu.be/WUN_12-dYOM)
-\n🖥️ 2:- [How To Get Api Id And Api Hash](https://youtu.be/5eEsvLAKVc0)
+\n my language : [phyton]
+\n👨‍💻 **Developer:** [Odin ](https://t.me/Hyetelegram )
+\n📢 **official Channel:** [Hyetelgram bots](https://t.me/HyetelegramBots)
+\n👥 **official Group:** [support group](https://t.me/Hyetelgram_bots_group)
+\n🌐 **Source Code:** [പറയാൻ പറ്റില്ല )
+
 """
 
     buttons = [[

@@ -21,9 +21,9 @@ API_TEXT = """🙋‍♂ **Hi {},**
 made by the great @Hyetelgram
 **
 
-👉 **[ʜᴏᴡ ᴛᴏ ɢᴇᴛ ᴀᴘɪ ɪᴅ & ᴀᴘɪ ʜᴀsʜ](https://youtu.be/5eEsvLAKVc0)
 
-👉 [ʜᴏᴡ ᴛᴏ ɢᴇᴛ ᴜsᴇʀsᴇssɪᴏɴ ꜰᴏʀ ᴡᴇʙsɪᴛᴇ](https://youtu.be/WUN_12-dYOM)**
+
+
 
 **👤Any Doubts @HyetelegramBots **
 

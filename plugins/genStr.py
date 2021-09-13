@@ -268,6 +268,6 @@ async def close(c, m):
 
 async def is_cancel(msg: Message, text: str):
     if text.startswith("/cancel"):
-        await msg.reply("⛔ Process Cancelled.\n\n**👤Any Doubt @Mo_Tech_Group**")
+        await msg.reply("⛔ Process Cancelled.\n\n**👤Any Doubt  @Hyetelgram*")
         return True
     return False 

@@ -205,13 +205,13 @@ async def help_cb(c, m, cb=True):
 """
 
     buttons = [[
-        InlineKeyboardButton('Tutorial-1', url='https://youtu.be/WUN_12-dYOM'),
-        InlineKeyboardButton('Tutorial-2', url='https://youtu.be/5eEsvLAKVc0'),
+        InlineKeyboardButton('Tutorial-1', url='https://t.me/tutorial_video_toxin_bot'),
+        InlineKeyboardButton('Tutorial-2', url='https://t.me/tutorial_video_toxin_bot'),
         ],[
-        InlineKeyboardButton('👤Any Doubt', url='https://t.me/Mo_Tech_Group'),
-        InlineKeyboardButton('🤖Bot Updates', url='https://t.me/Mo_Tech_Group'),
+        InlineKeyboardButton('👤Any Doubt', url='https://t.me/Hyetelgram_bots_group'),
+        InlineKeyboardButton('🤖Bot Updates', url='https://t.me/HyetelegramBots'),
         ],[
-        InlineKeyboardButton('💥Subscribers YT Channel💥', url='https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ'),
+        InlineKeyboardButton('💥Ajak Bot💥', url='https://t.me/Ajak_TG_Bot),
         ],[
         InlineKeyboardButton('📕 About', callback_data='about'),
         InlineKeyboardButton('❌ Close', callback_data='close')
